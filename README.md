@@ -2,7 +2,7 @@
 
 This curriculum traces the development of artificial intelligence and large language models (LLMs) from the early days of AI research to the emergence of GPT-4 and beyond. It highlights pivotal papers and breakthroughs that have shaped the field, focusing on developments relevant to LLMs.
 
-#### 1. Early AI and Symbolic Systems (1940s-1980s)
+### 1. Early AI and Symbolic Systems (1940s-1980s)
 
 1. **1943 – McCulloch and Pitts Model**
 
@@ -63,7 +63,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - Author: Lawrence Rabiner
     - Provided a foundational understanding of HMMs, critical for early speech recognition and sequence modeling.
 
-#### 2. Shift to Statistical NLP and Early Machine Learning (1990s-2000s)
+### 2. Shift to Statistical NLP and Early Machine Learning (1990s-2000s)
 
 11. **1990s – Emergence of Statistical NLP**
 
@@ -99,7 +99,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - Authors: Yoshua Bengio et al.
     - Introduced word embeddings and neural networks for language modeling.
 
-#### 3. Deep Learning Breakthroughs and Seq2Seq Models (2010s)
+### 3. Deep Learning Breakthroughs and Seq2Seq Models (2010s)
 
 17. **2012 – AlexNet and the Deep Learning Boom**
 
@@ -149,7 +149,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - Authors: Jeremy Howard, Sebastian Ruder
     - Demonstrated the effectiveness of pre-training a language model and fine-tuning it for specific tasks.
 
-#### 4. Transformer Revolution and Modern NLP (2017-Present)
+### 4. Transformer Revolution and Modern NLP (2017-Present)
 
 25. **2017 – Transformer Model (Self-Attention)**
 
@@ -199,7 +199,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - Authors: Alec Radford et al.
     - Scaled up the Transformer architecture with 1.5 billion parameters.
 
-#### 5. Scaling Laws, Emergent Abilities, and GPT-4 (2020-Present)
+### 5. Scaling Laws, Emergent Abilities, and GPT-4 (2020-Present)
 
 33. **2020 – GPT-3 (Few-Shot Learning at Scale)**
 
@@ -316,7 +316,7 @@ This curriculum traces the development of artificial intelligence and large lang
     - Authors: Xuezhi Wang et al.
     - Improved reasoning by sampling multiple reasoning paths and choosing the most consistent answer.
 
-#### 6. Ethics, Alignment, and Safety in AI
+### 6. Ethics, Alignment, and Safety in AI
 
 52. **2016 – Concrete Problems in AI Safety**
 
@@ -340,7 +340,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
     - Ongoing research into understanding and interpreting the decision-making processes of LLMs, aiming to align AI outputs with human values.
 
-#### 7. Emerging and Future Directions (2023 and Beyond)
+### 7. Emerging and Future Directions (2023 and Beyond)
 
 56. **2024 - Frugal Transformer: Efficient Training at Scale**
 
