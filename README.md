@@ -71,31 +71,31 @@ This curriculum traces the development of artificial intelligence and large lang
 
 12. **1993 – IBM Model 1 for Statistical Machine Translation**
 
-    - *[The Mathematics of Statistical Machine Translation](https://link_to_paper_10)*
+    - *[The Mathematics of Statistical Machine Translation](https://aclanthology.org/J93-2003/)*
     - Authors: Peter F. Brown et al.
     - Laid the foundation for modern translation systems by modeling word alignment between languages.
 
 13. **1993 – Class-Based n-gram Models**
 
-     - *[Class-Based n-gram Models of Natural Language](https://link_to_paper_11)*
+     - *[Class-Based n-gram Models of Natural Language](https://aclanthology.org/J92-4003/)*
     - Authors: Peter F. Brown et al.
     - Introduced class-based n-gram models, an early statistical approach to language modeling.
 
 14. **1997 – Long Short-Term Memory (LSTM)**
 
-    - *[Long Short-Term Memory](https://link_to_paper_12)*
+    - *[Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735)*
     - Authors: Sepp Hochreiter and Jürgen Schmidhuber
     - Introduced the LSTM architecture, addressing the vanishing gradient problem in RNNs.
 
 15. **1998 – LeNet and Convolutional Neural Networks (CNNs)**
 
-    - *[Gradient-Based Learning Applied to Document Recognition](https://link_to_paper_13)*
+    - *[Gradient-Based Learning Applied to Document Recognition](https://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)*
     - Author: Yann LeCun et al.
     - Developed LeNet, one of the first successful CNN architectures, used for handwritten digit recognition.
 
 16. **2003 – Neural Probabilistic Language Model**
 
-    - *[A Neural Probabilistic Language Model](https://link_to_paper_14)*
+    - *[A Neural Probabilistic Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)*
     - Authors: Yoshua Bengio et al.
     - Introduced word embeddings and neural networks for language modeling.
 
@@ -103,49 +103,49 @@ This curriculum traces the development of artificial intelligence and large lang
 
 17. **2012 – AlexNet and the Deep Learning Boom**
 
-    - *[ImageNet Classification with Deep Convolutional Neural Networks](https://link_to_paper_15)*
+    - *[ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)*
     - Authors: Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton
     - Marked the success of deep learning in image recognition, reigniting interest in neural networks.
 
 18. **2013 – Word2Vec (Efficient Word Representations)**
 
-    - *[Efficient Estimation of Word Representations in Vector Space](https://link_to_paper_16)*
+    - *[Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)*
     - Author: Tomas Mikolov et al.
     - Introduced Word2Vec, learning continuous vector representations of words.
 
 19. **2014 – Sequence to Sequence (Seq2Seq) Models**
 
-    - *[Sequence to Sequence Learning with Neural Networks](https://link_to_paper_17)*
+    - *[Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)*
     - Authors: Ilya Sutskever, Oriol Vinyals, Quoc V. Le
     - Introduced the Seq2Seq architecture using LSTMs, enabling machine translation tasks.
 
 20. **2014 – Gated Recurrent Units (GRUs)**
 
-    - *[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://link_to_paper_18)*
+    - *[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078)*
     - Authors: Kyunghyun Cho et al.
     - Introduced GRUs as a simpler alternative to LSTMs for sequence modeling.
 
 21. **2014 – Adam Optimizer**
 
-    - *[Adam: A Method for Stochastic Optimization](https://link_to_paper_19)*
+    - *[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)*
     - Authors: Diederik P. Kingma, Jimmy Ba
     - Presented the Adam optimizer, widely used in training deep neural networks.
 
 22. **2015 – Attention Mechanism in Neural Networks**
 
-    - *[Neural Machine Translation by Jointly Learning to Align and Translate](https://link_to_paper_20)*
+    - *[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)*
     - Authors: Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
     - Introduced the attention mechanism, greatly improving machine translation.
 
 23. **2017 – ELMo (Embeddings from Language Models)**
 
-    - *[Deep Contextualized Word Representations](https://link_to_paper_21)*
+    - *[Deep Contextualized Word Representations](https://arxiv.org/abs/1802.05365)*
     - Authors: Matthew Peters et al.
     - Provided contextualized word embeddings by modeling words in the context of entire sentences.
 
 24. **2018 – ULMFiT (Universal Language Model Fine-tuning)**
 
-    - *[Universal Language Model Fine-tuning for Text Classification](https://link_to_paper_22)*
+    - *[Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)*
     - Authors: Jeremy Howard, Sebastian Ruder
     - Demonstrated the effectiveness of pre-training a language model and fine-tuning it for specific tasks.
 
@@ -153,13 +153,13 @@ This curriculum traces the development of artificial intelligence and large lang
 
 25. **2017 – Transformer Model (Self-Attention)**
 
-    - *[Attention is All You Need](https://link_to_paper_23)*
+    - *[Attention is All You Need](https://arxiv.org/abs/1706.03762)*
     - Authors: Ashish Vaswani et al.
     - Introduced the Transformer model, replacing recurrence with self-attention.
 
 26. **2018 – GPT (Generative Pretrained Transformer)**
 
-    - *[Improving Language Understanding by Generative Pre-Training](https://link_to_paper_24)*
+    - *[Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)*
     - Authors: Alec Radford et al.
     - Introduced the first GPT model, using unsupervised pre-training followed by supervised fine-tuning.
 
