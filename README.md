@@ -12,7 +12,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
 2. **1950 – Turing Test**
 
-   - *[Computing Machinery and Intelligence](https://link_to_paper_2)*
+   - *[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433)*
    - Author: Alan Turing
    - Introduced the concept of the Turing Test, an early philosophical framework for evaluating machine intelligence.
 
@@ -23,19 +23,19 @@ This curriculum traces the development of artificial intelligence and large lang
 
 4. **1958 – Perceptron by Frank Rosenblatt**
 
-   - *[The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain](https://link_to_paper_3)*
+   - *[The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain](https://doi.org/10.1037/h0042519)*
    - Author: Frank Rosenblatt
    - Introduced the Perceptron, one of the first trainable neural networks.
 
 5. **1960 – Hebbian Learning (Influence on Neural Networks)**
 
-   - *[The Organization of Behavior](https://link_to_paper_4)*
+   - *[The Organization of Behavior](https://psycnet.apa.org/record/1950-06849-000)*
    - Author: Donald Hebb
    - Proposed Hebbian learning, introducing the principle "cells that fire together wire together."
 
 6. **1969 – Minsky and Papert Critique of Perceptrons**
 
-   - *[Perceptrons](https://link_to_paper_5)*
+   - *[Perceptrons](https://mitpress.mit.edu/9780262631116/perceptrons/)*
    - Authors: Marvin Minsky and Seymour Papert
    - Highlighted the limitations of the perceptron, leading to a decline in interest in neural networks.
 
