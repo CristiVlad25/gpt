@@ -35,31 +35,31 @@ This curriculum traces the development of artificial intelligence and large lang
 
 6. **1969 – Minsky and Papert Critique of Perceptrons**
 
-   - *[Perceptrons](https://mitpress.mit.edu/9780262631116/perceptrons/)*
+   - *[Perceptrons](https://leon.bottou.org/publications/pdf/perceptrons-2017.pdf)*
    - Authors: Marvin Minsky and Seymour Papert
    - Highlighted the limitations of the perceptron, leading to a decline in interest in neural networks.
 
 7. **1974 – Backpropagation Algorithm (Paul Werbos)**
 
-   - *[Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences](https://link_to_paper_6)*
+   - *[Beyond Regression: New Tools for Prediction and Analysis in the Behavioral Sciences](https://www.researchgate.net/publication/35657389_Beyond_regression_new_tools_for_prediction_and_analysis_in_the_behavioral_sciences)*
    - Author: Paul Werbos
    - Introduced the backpropagation algorithm in his Ph.D. thesis.
 
 8. **1980 – Neocognitron (Precursor to CNNs)**
 
-   - *[Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](https://link_to_paper_7)*
+   - *[Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](https://link.springer.com/article/10.1007/BF00344251)*
    - Author: Kunihiko Fukushima
    - Developed an early convolutional neural network (CNN) that inspired later advancements in deep learning.
 
 9. **1986 – Backpropagation Popularized**
 
-   - *[Learning Representations by Back-propagating Errors](https://link_to_paper_8)*
+   - *[Learning Representations by Back-propagating Errors](https://doi.org/10.1038/323533a0)*
    - Authors: David E. Rumelhart, Geoffrey Hinton, Ronald J. Williams
    - Popularized backpropagation, making it practical for training multilayer neural networks.
 
 10. **1989 – Hidden Markov Models (HMMs)**
 
-    - *[A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition](https://link_to_paper_9)*
+    - *[A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition](https://ieeexplore.ieee.org/document/18626)*
     - Author: Lawrence Rabiner
     - Provided a foundational understanding of HMMs, critical for early speech recognition and sequence modeling.
 
