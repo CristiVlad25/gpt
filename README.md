@@ -6,7 +6,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
 1. **1943 – McCulloch and Pitts Model**
 
-   - *[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://link_to_paper_1)*
+   - *[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)*
    - Authors: Warren McCulloch and Walter Pitts
    - Introduced the concept of an artificial neuron, laying the foundation for later neural network models.
 
