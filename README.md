@@ -165,37 +165,37 @@ This curriculum traces the development of artificial intelligence and large lang
 
 27. **2018 – BERT (Bidirectional Transformers)**
 
-    - *[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://link_to_paper_25)*
+    - *[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)*
     - Authors: Jacob Devlin et al.
     - Introduced BERT, pre-training on masked language modeling tasks.
 
 28. **2019 – Transformer-XL (Handling Longer Contexts)**
 
-    - *[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://link_to_paper_26)*
+    - *[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)*
     - Authors: Zihang Dai et al.
     - Extended the Transformer to capture long-term dependencies via recurrence mechanisms.
 
 29. **2019 – XLNet (Permutation-Based Pre-training)**
 
-    - *[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://link_to_paper_27)*
+    - *[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)*
     - Authors: Zhilin Yang et al.
     - Proposed a permutation-based training objective overcoming BERT's limitations.
 
 30. **2019 – RoBERTa (Robustly Optimized BERT)**
 
-    - *[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://link_to_paper_28)*
+    - *[RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)*
     - Authors: Yinhan Liu et al.
     - Showed BERT's performance could be improved by training longer on more data.
 
 31. **2019 – T5 (Text-to-Text Transfer Transformer)**
 
-    - *[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://link_to_paper_29)*
+    - *[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)*
     - Authors: Colin Raffel et al.
     - Unified NLP tasks under a text-to-text format, demonstrating effective transfer learning.
 
 32. **2019 – GPT-2 (OpenAI’s Transformer-based Model)**
 
-    - *[Language Models are Unsupervised Multitask Learners](https://link_to_paper_30)*
+    - *[Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)*
     - Authors: Alec Radford et al.
     - Scaled up the Transformer architecture with 1.5 billion parameters.
 
@@ -203,103 +203,105 @@ This curriculum traces the development of artificial intelligence and large lang
 
 33. **2020 – GPT-3 (Few-Shot Learning at Scale)**
 
-    - *[Language Models are Few-Shot Learners](https://link_to_paper_31)*
+    - *[Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)*
     - Authors: Tom B. Brown et al.
     - Introduced GPT-3, a 175-billion-parameter model demonstrating impressive few-shot learning.
 
 34. **2020 – Electra (Efficient Pre-training)**
 
-    - *[Electra: Pre-training Text Encoders as Discriminators Rather Than Generators](https://link_to_paper_32)*
+    - *[Electra: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555)*
     - Authors: Kevin Clark et al.
     - Presented a more sample-efficient pre-training method improving upon BERT.
 
 35. **2020 – Reformer (Efficient Transformers)**
 
-    - *[Reformer: The Efficient Transformer](https://link_to_paper_33)*
+    - *[Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)*
     - Authors: Nikita Kitaev et al.
     - Introduced techniques to reduce memory footprint and computational cost in Transformers.
 
 36. **2021 – Scaling Laws for Neural Language Models**
 
-    - *[Scaling Laws for Neural Language Models](https://link_to_paper_34)*
+    - *[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)*
     - Authors: Jared Kaplan et al.
     - Demonstrated that performance improvements follow predictable scaling laws.
 
 37. **2021 – Switch Transformer (Sparse Mixture-of-Experts)**
 
-    - *[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://link_to_paper_35)*
+    - *[Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961)*
     - Authors: William Fedus et al.
     - Proposed a Mixture-of-Experts model allowing scaling to trillions of parameters efficiently.
 
 38. **2021 – Megatron-Turing NLG 530B**
 
-    - *[Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B](https://link_to_paper_36)*
+    - *[Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B](https://arxiv.org/abs/2201.11990)*
     - Authors: Mohammad Shoeybi et al.
     - Detailed training one of the largest dense LLMs, contributing insights into large-scale training.
 
 39. **2021 – Codex and Code Generation**
 
-    - *[Evaluating Large Language Models Trained on Code](https://link_to_paper_37)*
+    - *[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)*
     - Authors: Mark Chen et al.
     - Introduced Codex, an LLM fine-tuned on source code, enabling applications like GitHub Copilot.
 
 40. **2022 – Chain-of-Thought Prompting**
 
-    - *[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://link_to_paper_38)*
+    - *[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)*
     - Authors: Jason Wei et al.
     - Showed that prompting LLMs to produce intermediate reasoning steps improves performance on complex tasks.
 
 41. **2022 – Chinchilla Scaling Laws**
 
-    - *[Training Compute-Optimal Large Language Models](https://link_to_paper_39)*
+    - *[Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)*
     - Authors: Jordan Hoffmann et al.
     - Presented evidence that LLM performance is a function of both model size and training data.
 
 42. **2022 – PaLM (Pathways Language Model)**
 
-    - *[PaLM: Scaling Language Modeling with Pathways](https://link_to_paper_40)*
+    - *[PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311)*
     - Authors: Aakanksha Chowdhery et al.
     - Introduced a 540-billion-parameter model demonstrating strong performance on reasoning and code tasks.
 
 43. **2022 – GLAM (Mixture-of-Experts)**
 
-    - *[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://link_to_paper_41)*
+    - *[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)*
     - Authors: Nan Du et al.
     - Presented a generalist language model using MoE to achieve strong performance with reduced computation.
 
 44. **2022 – BLOOM (Open-Access Multilingual Model)**
 
-    - *[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://link_to_paper_42)*
+    - *[BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)*
     - Authors: BigScience Workshop
     - Introduced an open-source LLM supporting 46 languages, promoting transparency and inclusivity.
 
 45. **2022 – Emergent Abilities of Large Language Models**
 
-    - *[Emergent Abilities of Large Language Models](https://link_to_paper_43)*
+    - *[Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)*
     - Authors: Jason Wei et al.
     - Explored emergent behaviors arising in large models like GPT-3 and GPT-4 as a result of scale.
 
 46. **2022 – Instruction Tuning and RLHF (Human Feedback)**
 
-    - *[Training Language Models to Follow Instructions with Human Feedback](https://link_to_paper_44)*
+    - *[Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155)*
     - Authors: Long Ouyang et al.
+    - *[Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)*
+    - Authors: Amodei et al.
     - Detailed how models were fine-tuned using reinforcement learning from human feedback.
 
 47. **2023 – GPT-4 (Multimodal Capabilities)**
 
-    - *[GPT-4 Technical Report](https://link_to_paper_45)*
+    - *[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)*
     - Authors: OpenAI
     - Described GPT-4, a large-scale, multimodal model capable of processing both text and images.
 
 48. **2023 – Sparks of AGI in GPT-4 (Microsoft Research)**
 
-    - *[Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://link_to_paper_46)*
+    - *[Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)*
     - Authors: Microsoft Research
     - Explored potential AGI-like behaviors in GPT-4.
 
 49. **2023 – Toolformer: Language Models Using Tools**
 
-    - *[Toolformer: Language Models Can Teach Themselves to Use Tools](https://link_to_paper_47)*
+    - *[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)*
     - Authors: Timo Schick et al.
     - Presented a method where LLMs decide when and how to use external tools to improve performance.
 
@@ -310,7 +312,7 @@ This curriculum traces the development of artificial intelligence and large lang
 
 51. **2023 – Self-Consistency in Chain-of-Thought**
 
-    - *[Self-Consistency Improves Chain-of-Thought Reasoning in Language Models](https://link_to_paper_48)*
+    - *[Self-Consistency Improves Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)*
     - Authors: Xuezhi Wang et al.
     - Improved reasoning by sampling multiple reasoning paths and choosing the most consistent answer.
 
@@ -318,19 +320,19 @@ This curriculum traces the development of artificial intelligence and large lang
 
 52. **2016 – Concrete Problems in AI Safety**
 
-    - *[Concrete Problems in AI Safety](https://link_to_paper_49)*
+    - *[Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)*
     - Authors: Dario Amodei et al.
     - Outlined key challenges in ensuring AI systems operate safely and align with human values.
 
 53. **2018 – Gender Shades (Bias in AI Systems)**
 
-    - *[Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://link_to_paper_50)*
+    - *[Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)*
     - Authors: Joy Buolamwini, Timnit Gebru
     - Highlighted biases in AI systems, emphasizing the need for fairness and ethics.
 
 54. **2020 – Ethical and Social Implications of AI**
 
-    - *[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://link_to_paper_51)*
+    - *[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)*
     - Authors: Emily M. Bender et al.
     - Discussed risks associated with large language models, including environmental impact and bias.
 
@@ -342,63 +344,52 @@ This curriculum traces the development of artificial intelligence and large lang
 
 56. **2024 - Frugal Transformer: Efficient Training at Scale**
 
-    - [*Frugal Transformers: Cost-Efficient Training at Scale*](https://link_to_paper_57)
-    - Authors: Allen et al.
-    - Proposed a novel architecture that focuses on reducing computational costs without sacrificing performance.
+    - [*Fast-and-Frugal Text-Graph Transformers are Effective Link Predictors*](https://www.arxiv.org/abs/2408.06778)
+    - Authors: AC et al.
+    - Link prediction models can benefit from incorporating textual descriptions of entities and relations.
 
 57. **2024 - AI on the Edge**
 
-    - [*On-Device Transformers: Bridging LLMs to Edge Computing*](https://link_to_paper_58)
-    - Authors: Smith et al.
+    - [*Mobile Edge Intelligence for Large Language Models*](https://arxiv.org/html/2407.18921v1)
+    - Authors: Kaibin et al.
     - Detailed advancements in deploying LLMs on edge devices, opening new possibilities for privacy-focused AI applications.
 
 58. **2024 - Federated GPT**
 
-    - [*Federated Training with GPT for Secure Language Understanding*](https://link_to_paper_59)
+    - [*Towards Building the Federated GPT*](https://arxiv.org/html/2305.05644v2)
     - Authors: Zhang et al.
     - Expanded federated learning into GPT models, enabling privacy-preserving training across distributed networks.
 
 59. **2023 – Generative Agents and Interactive AI Systems**
 
-    - *[Generative Agents: Interactive Simulacra of Human Behavior](https://link_to_paper_52)*
+    - *[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)*
     - Authors: Park et al.
     - Introduced generative agents capable of interacting autonomously in complex environments.
 
 60. **2023 – Memory-Augmented Models**
 
-    - *[MemGPT: Towards Continual Learning for Large Language Models](https://link_to_paper_53)*
+    - *[MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/pdf/2310.08560)*
     - Explored integrating memory mechanisms into LLMs for better handling of long-term dependencies.
 
 61. **2023 – OpenAI Function Calling and Plugins**
 
+    - *[Function Calling and Other API Updates](https://openai.com/index/function-calling-and-other-api-updates/)*
     - Organization: OpenAI
     - Introduced structured data output and plugin systems for LLMs to interact with external tools and APIs.
 
-62. **2023 – Federated Learning with LLMs**
-
-    - *[An Overview of Federated Learning for Natural Language Processing](https://link_to_paper_54)*
-    - Authors: Camem Payne et al.
-    - Discussed adapting federated learning techniques to NLP for privacy-preserving training.
-
-63. **2023 – Sparse Expert Models**
+62. **2023 – Sparse Expert Models**
 
     - Research into sparse models like Mixture-of-Experts that scale efficiently by activating relevant parts of the network.
 
-64. **2023 – Scaling Instruction Tuning**
+63. **2023 – Scaling Instruction Tuning**
 
-    - *[Finetuned Language Models Are Zero-Shot Learners](https://link_to_paper_55)*
+    - *[Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)*
     - Authors: Jason Wei et al.
     - Demonstrated that instruction tuning on a mixture of tasks improves zero-shot performance.
 
 65. **2023 – Advances in Multimodal Learning**
 
     - Integration of text, image, audio, and video data in unified models, expanding LLM capabilities.
-
-66. **2024 – Federated Large Language Models**
-
-    - *[Federated Learning with Transformer Models](https://link_to_paper_56)*
-    - Authors: Chen et al.
-    - Explored federated training on transformer models across distributed nodes.
 
 ### Additional Emerging Areas:
 
