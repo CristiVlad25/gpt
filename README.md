@@ -1,4 +1,4 @@
-## Curriculum of Key Papers and Breakthroughs Leading to GPT-4 and Beyond
+## Key Papers and Breakthroughs Leading to GPT-4 and Beyond
 
 This curriculum traces the development of artificial intelligence and large language models (LLMs) from the early days of AI research to the emergence of GPT-4 and beyond. It highlights pivotal papers and breakthroughs that have shaped the field, focusing on developments relevant to LLMs.
 
