@@ -2,6 +2,8 @@
 
 This curriculum traces the development of artificial intelligence and large language models (LLMs) from the early days of AI research to the emergence of GPT-4 and beyond. It highlights pivotal papers and breakthroughs that have shaped the field, focusing on developments relevant to LLMs.
 
+*I am also tracing my progress through this curriculum, to keep myself accountable. My current progress is tagged with: **(I am currently here)**.*
+
 ### 1. Early AI and Symbolic Systems (1940s-1980s)
 
 1. **1943 – McCulloch and Pitts Model**
@@ -9,6 +11,7 @@ This curriculum traces the development of artificial intelligence and large lang
    - *[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)*
    - Authors: Warren McCulloch and Walter Pitts
    - Introduced the concept of an artificial neuron, laying the foundation for later neural network models.
+   - **(I am currently here)**.
 
 2. **1950 – Turing Test**
 
