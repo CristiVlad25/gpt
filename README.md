@@ -6,11 +6,12 @@ This curriculum traces the development of artificial intelligence and large lang
 
 ### 1. Early AI and Symbolic Systems (1940s-1980s)
 
-1. **1943 – McCulloch and Pitts Model**
+1. **1943 – McCulloch and Pitts Model** 
 
    - *[A Logical Calculus of the Ideas Immanent in Nervous Activity](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)*
    - Authors: Warren McCulloch and Walter Pitts
    - Introduced the concept of an artificial neuron, laying the foundation for later neural network models.
+   - [[Youtube video explaining the paper in simple terms](https://www.youtube.com/watch?v=dvCcBTOBOK0)]
    - **(I am currently here)**.
 
 2. **1950 – Turing Test**
